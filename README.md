@@ -1,5 +1,5 @@
-# Personalized Cross-Sell Recommendations by example 
-# Personalized NFT Recommendations
+# CryptoFlex
+## Cross-Sell Marketing: NFT Recommendations
 
 ![Solana](https://img.shields.io/badge/Solana-Blockchain-blue)
 
