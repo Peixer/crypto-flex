@@ -19,7 +19,7 @@ Smart contract address: [2X7YkxcdDdZ2dHwie2c6euXi8fhrY7H5PkyFpiyg9JiX](https://s
 
 1. **Integration**: Easily integrates with a platform's existing infrastructure, requiring minimal setup.
 2. **Data Fetching**: Once a user connects their digital wallet, the system fetches relevant data points such as Solana balance, transaction history, and current NFT portfolio.
-3. **Analysis & Categorization**: The ML model analyzes the fetched data, categorizing the user into a specific behavior pattern.
+3. **Analysis & Categorization**: The K-Means clustering algorithm analyzes the fetched data, categorizing the user into a specific behavior pattern.
 4. **Recommendation Generation**: Based on the categorization, the system generates a list of the top NFTs recommended for purchase.
 5. **Continuous Learning**: The model continually learns from new user data, ensuring recommendations become more accurate over time.
 
