@@ -1,4 +1,5 @@
-# Personalized Cross-Sell Recommendations by example Personalized NFT Recommendations
+# Personalized Cross-Sell Recommendations by example 
+# Personalized NFT Recommendations
 
 ![Solana](https://img.shields.io/badge/Solana-Blockchain-blue)
 
