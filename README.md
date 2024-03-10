@@ -22,6 +22,9 @@ Smart contract address: [2X7YkxcdDdZ2dHwie2c6euXi8fhrY7H5PkyFpiyg9JiX](https://s
 4. **Recommendation Generation**: Based on the categorization, the system generates a list of the top NFTs recommended for purchase.
 5. **Continuous Learning**: The model continually learns from new user data, ensuring recommendations become more accurate over time.
 
+   <img width="1163" alt="image" src="https://github.com/Peixer/crypto-flex/assets/11881839/4f54220d-ef08-4dbc-9074-29813613d34c">
+
+
 ## Getting Started
 
 To integrate NFT Recommender Engine with your platform, follow these steps:
