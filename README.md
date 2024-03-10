@@ -6,6 +6,8 @@
 
 NFT Recommender Engine leverages advanced machine learning algorithms to offer highly personalized NFT purchase recommendations. This product is designed to be integrated with NFT marketplaces, enhancing user experience by tailoring suggestions based on an in-depth analysis of their behavior patterns, Solana balance, transaction history, and current NFT holdings.
 
+Smart contract address: [2X7YkxcdDdZ2dHwie2c6euXi8fhrY7H5PkyFpiyg9JiX](https://solscan.io/account/2X7YkxcdDdZ2dHwie2c6euXi8fhrY7H5PkyFpiyg9JiX?cluster=devnet)
+
 ## Features
 
 - **Personalized Recommendations**: Utilizes a complex recommender model to analyze users' digital wallet activities, categorizing them into distinct patterns for accurate NFT suggestions.
