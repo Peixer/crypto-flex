@@ -26,23 +26,10 @@ Smart contract address: [2X7YkxcdDdZ2dHwie2c6euXi8fhrY7H5PkyFpiyg9JiX](https://s
    <img width="1163" alt="image" src="https://github.com/Peixer/crypto-flex/assets/11881839/4f54220d-ef08-4dbc-9074-29813613d34c">
 
 
-## Getting Started
-
-To integrate NFT Recommender Engine with your platform, follow these steps:
-<TBA>
-
-## Documentation
-For detailed documentation, including API references and configuration guides, please visit [NFT Recommender Engine Documentation](#).
-
-## Support
-For support, please open an issue in the GitHub repository or contact our support team at <emails>.
-
-## Contribute
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for more information on how to get started.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ---
 
-Enhance your NFT marketplace with NFT Recommender Engine and transform the way users discover and invest in NFTs.
+Enhance your NFT marketplace with CryptoFlex: NFT Recommender and transform the way users discover and invest in NFTs.
