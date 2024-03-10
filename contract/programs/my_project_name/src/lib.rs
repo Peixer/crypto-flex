@@ -42,25 +42,19 @@ pub mod my_project_name {
             Product {
                 product_id: 1,
                 segments: vec![
-                    Segment { indicator_from: 0, indicator_to: 100, address: String::from("Token Address for Product 1") },
-                    Segment { indicator_from: 101, indicator_to: 200, address: String::from("Token Address for Product 2") },
-                    Segment { indicator_from: 201, indicator_to: 300, address: String::from("Token Address for Product 3") },
+                    Segment { indicator_from: 0, indicator_to: 358, address: String::from("Mad Lads") }
                 ],
             },
             Product {
                 product_id: 2,
                 segments: vec![
-                    Segment { indicator_from: 0, indicator_to: 100, address: String::from("Token Address for Product A") },
-                    Segment { indicator_from: 101, indicator_to: 200, address: String::from("Token Address for Product B") },
-                    Segment { indicator_from: 201, indicator_to: 300, address: String::from("Token Address for Product C") },
+                    Segment { indicator_from: 6000, indicator_to: 7000, address: String::from("Famous Fox Federation") }
                 ],
             },
             Product {
                 product_id: 3,
                 segments: vec![
-                    Segment { indicator_from: 0, indicator_to: 100, address: String::from("Token Address for Product X") },
-                    Segment { indicator_from: 101, indicator_to: 200, address: String::from("Token Address for Product Y") },
-                    Segment { indicator_from: 201, indicator_to: 300, address: String::from("Token Address for Product Z") },
+                    Segment { indicator_from: 405, indicator_to: 2480, address: String::from("Frogana name") }
                 ],
             }
         ];
