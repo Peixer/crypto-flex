@@ -31,5 +31,3 @@ Smart contract address: [2X7YkxcdDdZ2dHwie2c6euXi8fhrY7H5PkyFpiyg9JiX](https://s
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ---
-
-Enhance your NFT marketplace with CryptoFlex: NFT Recommender and transform the way users discover and invest in NFTs.
